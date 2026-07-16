@@ -1,15 +1,15 @@
 {
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWk4rUlF0YXFXdElGTFJwb3l6WmVDcm5UTXZ4U01GM3QybXFFKzlJV2ZBNmUxWnEvdXN5UTkydm1Cd3dUU1lOY0NPOGNhZ1l6c1hDN1pxZWZQamxDNmIyV3BtdWYrZkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MjMwOTkxCWZpbGU6TmV3U2NoZW1TVExfMC4yLjJfeDY0LXNldHVwLmV4ZQpPRThqVU9qVU1WZjBjNW5Tdk56SE1CWkZ1U3BndjdPdUllM0lRaDQ2ZXlwWGF4UUhFekY4VUFhVFZnZUhFNVgwendJbW15SkZoa0Z0NDRlb0tzbnpEQT09Cg==",
-                                             "url":  "https://raw.githubusercontent.com/Yeyessint/NewSchemSTL-Releases/main/NewSchemSTL_0.2.2_x64-setup.exe"
-                                         },
-                      "windows-x86_64-nsis":  {
-                                                  "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWk4rUlF0YXFXdElGTFJwb3l6WmVDcm5UTXZ4U01GM3QybXFFKzlJV2ZBNmUxWnEvdXN5UTkydm1Cd3dUU1lOY0NPOGNhZ1l6c1hDN1pxZWZQamxDNmIyV3BtdWYrZkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MjMwOTkxCWZpbGU6TmV3U2NoZW1TVExfMC4yLjJfeDY0LXNldHVwLmV4ZQpPRThqVU9qVU1WZjBjNW5Tdk56SE1CWkZ1U3BndjdPdUllM0lRaDQ2ZXlwWGF4UUhFekY4VUFhVFZnZUhFNVgwendJbW15SkZoa0Z0NDRlb0tzbnpEQT09Cg==",
-                                                  "url":  "https://raw.githubusercontent.com/Yeyessint/NewSchemSTL-Releases/main/NewSchemSTL_0.2.2_x64-setup.exe"
-                                              }
-                  },
-    "pub_date":  "2026-07-16T19:43:14.936Z",
-    "version":  "0.2.2",
-    "notes":  "Actualización estable de NewSchemSTL."
+  "notes": "Actualización estable de NewSchemSTL.",
+  "pub_date": "2026-07-16T20:24:02.3805976Z",
+  "version": "0.2.3",
+  "platforms": {
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWk4rUlF0YXFXdEhnUGV1K3pxVVVzNW9GbkluUktlMzZJTXlPS2xPdlFRQ0JmVDhSNkgxZklIaGNYWGZTZDU2cnlYUU9DN3k3U1dlYU02ZGlWQU00SkhQNk1BZm0vcVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MjMzNDI3CWZpbGU6TmV3U2NoZW1TVExfMC4yLjNfeDY0LXNldHVwLmV4ZQorNWMyVzZWWFB6b25xMGdVUXowWlFUQ1I4bzNJdlFaWGRpa25LbVhXc0Y4cE5OcnVVT05QVDB2R1I2cjZ1NEZVRUhVTGZtOWFFNUlwM0hEK3F3aXRDUT09Cg==",
+      "url": "https://raw.githubusercontent.com/Yeyessint/NewSchemSTL-Releases/main/NewSchemSTL_0.2.3_x64-setup.exe"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWk4rUlF0YXFXdEhnUGV1K3pxVVVzNW9GbkluUktlMzZJTXlPS2xPdlFRQ0JmVDhSNkgxZklIaGNYWGZTZDU2cnlYUU9DN3k3U1dlYU02ZGlWQU00SkhQNk1BZm0vcVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MjMzNDI3CWZpbGU6TmV3U2NoZW1TVExfMC4yLjNfeDY0LXNldHVwLmV4ZQorNWMyVzZWWFB6b25xMGdVUXowWlFUQ1I4bzNJdlFaWGRpa25LbVhXc0Y4cE5OcnVVT05QVDB2R1I2cjZ1NEZVRUhVTGZtOWFFNUlwM0hEK3F3aXRDUT09Cg==",
+      "url": "https://raw.githubusercontent.com/Yeyessint/NewSchemSTL-Releases/main/NewSchemSTL_0.2.3_x64-setup.exe"
+    }
+  }
 }
