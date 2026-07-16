@@ -1,15 +1,15 @@
 {
-  "notes": "Actualización estable de NewSchemSTL.",
-  "pub_date": "2026-07-16T20:24:02.3805976Z",
-  "version": "0.2.3",
+  "version": "0.3.1",
   "platforms": {
-    "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWk4rUlF0YXFXdEhnUGV1K3pxVVVzNW9GbkluUktlMzZJTXlPS2xPdlFRQ0JmVDhSNkgxZklIaGNYWGZTZDU2cnlYUU9DN3k3U1dlYU02ZGlWQU00SkhQNk1BZm0vcVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MjMzNDI3CWZpbGU6TmV3U2NoZW1TVExfMC4yLjNfeDY0LXNldHVwLmV4ZQorNWMyVzZWWFB6b25xMGdVUXowWlFUQ1I4bzNJdlFaWGRpa25LbVhXc0Y4cE5OcnVVT05QVDB2R1I2cjZ1NEZVRUhVTGZtOWFFNUlwM0hEK3F3aXRDUT09Cg==",
-      "url": "https://raw.githubusercontent.com/Yeyessint/NewSchemSTL-Releases/main/NewSchemSTL_0.2.3_x64-setup.exe"
-    },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWk4rUlF0YXFXdEhnUGV1K3pxVVVzNW9GbkluUktlMzZJTXlPS2xPdlFRQ0JmVDhSNkgxZklIaGNYWGZTZDU2cnlYUU9DN3k3U1dlYU02ZGlWQU00SkhQNk1BZm0vcVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MjMzNDI3CWZpbGU6TmV3U2NoZW1TVExfMC4yLjNfeDY0LXNldHVwLmV4ZQorNWMyVzZWWFB6b25xMGdVUXowWlFUQ1I4bzNJdlFaWGRpa25LbVhXc0Y4cE5OcnVVT05QVDB2R1I2cjZ1NEZVRUhVTGZtOWFFNUlwM0hEK3F3aXRDUT09Cg==",
-      "url": "https://raw.githubusercontent.com/Yeyessint/NewSchemSTL-Releases/main/NewSchemSTL_0.2.3_x64-setup.exe"
+      "url": "https://raw.githubusercontent.com/Yeyessint/NewSchemSTL-Releases/main/NewSchemSTL_0.3.1_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWk4rUlF0YXFXdERMcXJKdXRINmpBMzhNM1JORWVDMWU4MjlJUisxTnZ4NFVxeFhITEVRSWlZQWNwYjloblFTNGlmak5iWVBsRzU1OFFrZlphWVJDSHpqcVdJYnkwZGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MjM5OTU5CWZpbGU6TmV3U2NoZW1TVExfMC4zLjFfeDY0LXNldHVwLmV4ZQpzbEFqa2s3N3pZUzBqOFo0U1FKZkg5cXpVRkJ2cFpyTnF0Skpra2doN2hNc01YbTg0MU0xd0tlL3ZvcWQzM2VzZkJGRnhXekgxN1NXY0Y2WnRsN2VCZz09Cg=="
+    },
+    "windows-x86_64-nsis": {
+      "url": "https://raw.githubusercontent.com/Yeyessint/NewSchemSTL-Releases/main/NewSchemSTL_0.3.1_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWk4rUlF0YXFXdERMcXJKdXRINmpBMzhNM1JORWVDMWU4MjlJUisxTnZ4NFVxeFhITEVRSWlZQWNwYjloblFTNGlmak5iWVBsRzU1OFFrZlphWVJDSHpqcVdJYnkwZGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MjM5OTU5CWZpbGU6TmV3U2NoZW1TVExfMC4zLjFfeDY0LXNldHVwLmV4ZQpzbEFqa2s3N3pZUzBqOFo0U1FKZkg5cXpVRkJ2cFpyTnF0Skpra2doN2hNc01YbTg0MU0xd0tlL3ZvcWQzM2VzZkJGRnhXekgxN1NXY0Y2WnRsN2VCZz09Cg=="
     }
-  }
+  },
+  "pub_date": "2026-07-16T22:12:50.1170067Z",
+  "notes": "Actualización estable de NewSchemSTL."
 }
