@@ -1,15 +1,15 @@
 {
+  "version": "0.5.0",
+  "notes": "Actualización estable de NewSchemSTL.",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/Yeyessint/NewSchemSTL-Releases/main/NewSchemSTL_0.4.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWk4rUlF0YXFXdEhYZXJJSy9UWXdqM2owK28ybmVSWTZ3TDZYTCtrTkdUT2VTOFZrSGpMQjYxYTUwVExEYUFOQVBSZ2RoblU1bDU0aklRNmtleGlUR2tDMGc5M3JldGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MjUyNTEzCWZpbGU6TmV3U2NoZW1TVExfMC40LjBfeDY0LXNldHVwLmV4ZQozeWs0cjAyaDJTZUIzcXFqZHpiYWN1NnBCRGdnNXVKTGVhbC8wM0h6bHlvVnVTSDFTWlJvYjNLdkZ3RTl5UHNaVS93a2NreUkzb1A3NStZYm1oVG5BQT09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWk4rUlF0YXFXdE5xMzgrZzhJdy9sQThwSU02V2M5a01mZHg1WWNvUXNpTnVpUHBjNzhIVnh5VlU3WTU0NkFhdzJOd1Qvelh3UnRQdEpWTndodUVRS2NtWVJzN0dXQmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MzAwODcwCWZpbGU6TmV3U2NoZW1TVExfMC41LjBfeDY0LXNldHVwLmV4ZQpzYVFOQ0luVGNvbGkvdHM5Q0VBdnNMUDA1SDJ5Y2lsbnUwTkp3T0g3ZTJFcEhDYWRMYnlRMHhwQ2VaUmhyWnpBckNIMEx2NUhPVE1sYmwwMStDVHhBZz09Cg==",
+      "url": "https://raw.githubusercontent.com/Yeyessint/NewSchemSTL-Releases/main/NewSchemSTL_0.5.0_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "url": "https://raw.githubusercontent.com/Yeyessint/NewSchemSTL-Releases/main/NewSchemSTL_0.4.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWk4rUlF0YXFXdEhYZXJJSy9UWXdqM2owK28ybmVSWTZ3TDZYTCtrTkdUT2VTOFZrSGpMQjYxYTUwVExEYUFOQVBSZ2RoblU1bDU0aklRNmtleGlUR2tDMGc5M3JldGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MjUyNTEzCWZpbGU6TmV3U2NoZW1TVExfMC40LjBfeDY0LXNldHVwLmV4ZQozeWs0cjAyaDJTZUIzcXFqZHpiYWN1NnBCRGdnNXVKTGVhbC8wM0h6bHlvVnVTSDFTWlJvYjNLdkZ3RTl5UHNaVS93a2NreUkzb1A3NStZYm1oVG5BQT09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWk4rUlF0YXFXdE5xMzgrZzhJdy9sQThwSU02V2M5a01mZHg1WWNvUXNpTnVpUHBjNzhIVnh5VlU3WTU0NkFhdzJOd1Qvelh3UnRQdEpWTndodUVRS2NtWVJzN0dXQmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MzAwODcwCWZpbGU6TmV3U2NoZW1TVExfMC41LjBfeDY0LXNldHVwLmV4ZQpzYVFOQ0luVGNvbGkvdHM5Q0VBdnNMUDA1SDJ5Y2lsbnUwTkp3T0g3ZTJFcEhDYWRMYnlRMHhwQ2VaUmhyWnpBckNIMEx2NUhPVE1sYmwwMStDVHhBZz09Cg==",
+      "url": "https://raw.githubusercontent.com/Yeyessint/NewSchemSTL-Releases/main/NewSchemSTL_0.5.0_x64-setup.exe"
     }
   },
-  "pub_date": "2026-07-17T01:42:03.2456276Z",
-  "notes": "Actualización estable de NewSchemSTL.",
-  "version": "0.4.0"
+  "pub_date": "2026-07-17T15:08:17.4348737Z"
 }
