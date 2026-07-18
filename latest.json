@@ -1,15 +1,15 @@
 {
-  "version": "0.6.0",
-  "pub_date": "2026-07-18T01:02:50.0145761Z",
+  "notes": "Interfaz profesional, ayuda y tutorial guiado, edición nativa por piezas, selector visual de bloques y visor exacto de chunks Minecraft 16x16.",
+  "version": "0.7.0",
+  "pub_date": "2026-07-18T19:56:50.1062451Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/Yeyessint/NewSchemSTL-Releases/main/NewSchemSTL_0.6.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWk4rUlF0YXFXdEhvSE1KK2YzelYyVUcyU0d4d1YzN3dHZGRPL0dCcUduR3BQaFBrS1BjODZQazRkVHZyUzdwdW5JY2xITFBBNXFlRlFTVWRIT1doSXNrZFZmazlrd1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MzM2NTU1CWZpbGU6TmV3U2NoZW1TVExfMC42LjBfeDY0LXNldHVwLmV4ZQpDb1RlK2N3NDdBeGhyOEFWVE45YUVMWVBHYTBMamtCcExGajBPYnNxd25PNzRLV0U1QUYyd3M2N2ZmeUpEaHZuMU1GL00yeEhHRzhXMzZHQjVPeVZCUT09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWk4rUlF0YXFXdEJScUQwZnlyTU52N21ZVzNuVWRDaCtZYVYzODBWWHBXSHRHQzh4aFUxa1Ribk1BV1pETlNYNHpXdjUvbk43cHRPVHl5L1dRMTc3Z2FETDRrTkwyS1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDA0NTk3CWZpbGU6TmV3U2NoZW1TVExfMC43LjBfeDY0LXNldHVwLmV4ZQoxcW00Zis4MkdHNmMvdjJsNGRJeDh0bk5NNk1EY09VKzFDbTJ0WldJUWpGYXQ5VGJyUmRFUHNjWDZsOXhHTkE1TlNPNFVtbit1S2lJY3JIRGJkalFDUT09Cg==",
+      "url": "https://raw.githubusercontent.com/Yeyessint/NewSchemSTL-Releases/main/NewSchemSTL_0.7.0_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "url": "https://raw.githubusercontent.com/Yeyessint/NewSchemSTL-Releases/main/NewSchemSTL_0.6.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWk4rUlF0YXFXdEhvSE1KK2YzelYyVUcyU0d4d1YzN3dHZGRPL0dCcUduR3BQaFBrS1BjODZQazRkVHZyUzdwdW5JY2xITFBBNXFlRlFTVWRIT1doSXNrZFZmazlrd1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MzM2NTU1CWZpbGU6TmV3U2NoZW1TVExfMC42LjBfeDY0LXNldHVwLmV4ZQpDb1RlK2N3NDdBeGhyOEFWVE45YUVMWVBHYTBMamtCcExGajBPYnNxd25PNzRLV0U1QUYyd3M2N2ZmeUpEaHZuMU1GL00yeEhHRzhXMzZHQjVPeVZCUT09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWk4rUlF0YXFXdEJScUQwZnlyTU52N21ZVzNuVWRDaCtZYVYzODBWWHBXSHRHQzh4aFUxa1Ribk1BV1pETlNYNHpXdjUvbk43cHRPVHl5L1dRMTc3Z2FETDRrTkwyS1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDA0NTk3CWZpbGU6TmV3U2NoZW1TVExfMC43LjBfeDY0LXNldHVwLmV4ZQoxcW00Zis4MkdHNmMvdjJsNGRJeDh0bk5NNk1EY09VKzFDbTJ0WldJUWpGYXQ5VGJyUmRFUHNjWDZsOXhHTkE1TlNPNFVtbit1S2lJY3JIRGJkalFDUT09Cg==",
+      "url": "https://raw.githubusercontent.com/Yeyessint/NewSchemSTL-Releases/main/NewSchemSTL_0.7.0_x64-setup.exe"
     }
-  },
-  "notes": "Editor nativo, selector visual de bloques y visor exacto de chunks Minecraft 16x16."
+  }
 }
