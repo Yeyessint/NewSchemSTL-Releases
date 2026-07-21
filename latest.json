@@ -1,15 +1,15 @@
 {
-  "notes": "Interfaz profesional, ayuda y tutorial guiado, edición nativa por piezas, selector visual de bloques y visor exacto de chunks Minecraft 16x16.",
-  "version": "0.7.0",
-  "pub_date": "2026-07-18T19:56:50.1062451Z",
+  "notes": "Montaje y fusión de piezas, galería de ejemplos, exportación .schem nativa por chunks y apariencia configurable con textos más legibles.",
+  "pub_date": "2026-07-21T19:40:41.8811732Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWk4rUlF0YXFXdEJScUQwZnlyTU52N21ZVzNuVWRDaCtZYVYzODBWWHBXSHRHQzh4aFUxa1Ribk1BV1pETlNYNHpXdjUvbk43cHRPVHl5L1dRMTc3Z2FETDRrTkwyS1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDA0NTk3CWZpbGU6TmV3U2NoZW1TVExfMC43LjBfeDY0LXNldHVwLmV4ZQoxcW00Zis4MkdHNmMvdjJsNGRJeDh0bk5NNk1EY09VKzFDbTJ0WldJUWpGYXQ5VGJyUmRFUHNjWDZsOXhHTkE1TlNPNFVtbit1S2lJY3JIRGJkalFDUT09Cg==",
-      "url": "https://raw.githubusercontent.com/Yeyessint/NewSchemSTL-Releases/main/NewSchemSTL_0.7.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWk4rUlF0YXFXdERvRStuQUlzQnhjaHhSUUxldHQ3MERvUFB5bk85bEFRbkZiN2dLc1dGeWN3UWIxVTFTOWZVV2tZclAwcXdrTHViOGRrc2RvRWdwaTIvYnZMTkEwQkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjYyODIzCWZpbGU6TmV3U2NoZW1TVExfMC44LjBfeDY0LXNldHVwLmV4ZQo5eG80SU1GaFlMVnNJNFlTVHM4MkdmSU9RZzlpZDBUWkFzTDBlelZJOGwxcFFpS1dUaEJGNnZGMmJyNzhpNUVYUzE4cm43ODZyY2ZYazJOYmFCeXpDUT09Cg==",
+      "url": "https://raw.githubusercontent.com/Yeyessint/NewSchemSTL-Releases/main/NewSchemSTL_0.8.0_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWk4rUlF0YXFXdEJScUQwZnlyTU52N21ZVzNuVWRDaCtZYVYzODBWWHBXSHRHQzh4aFUxa1Ribk1BV1pETlNYNHpXdjUvbk43cHRPVHl5L1dRMTc3Z2FETDRrTkwyS1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDA0NTk3CWZpbGU6TmV3U2NoZW1TVExfMC43LjBfeDY0LXNldHVwLmV4ZQoxcW00Zis4MkdHNmMvdjJsNGRJeDh0bk5NNk1EY09VKzFDbTJ0WldJUWpGYXQ5VGJyUmRFUHNjWDZsOXhHTkE1TlNPNFVtbit1S2lJY3JIRGJkalFDUT09Cg==",
-      "url": "https://raw.githubusercontent.com/Yeyessint/NewSchemSTL-Releases/main/NewSchemSTL_0.7.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWk4rUlF0YXFXdERvRStuQUlzQnhjaHhSUUxldHQ3MERvUFB5bk85bEFRbkZiN2dLc1dGeWN3UWIxVTFTOWZVV2tZclAwcXdrTHViOGRrc2RvRWdwaTIvYnZMTkEwQkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjYyODIzCWZpbGU6TmV3U2NoZW1TVExfMC44LjBfeDY0LXNldHVwLmV4ZQo5eG80SU1GaFlMVnNJNFlTVHM4MkdmSU9RZzlpZDBUWkFzTDBlelZJOGwxcFFpS1dUaEJGNnZGMmJyNzhpNUVYUzE4cm43ODZyY2ZYazJOYmFCeXpDUT09Cg==",
+      "url": "https://raw.githubusercontent.com/Yeyessint/NewSchemSTL-Releases/main/NewSchemSTL_0.8.0_x64-setup.exe"
     }
-  }
+  },
+  "version": "0.8.0"
 }
